@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookExcercises", "BookExcercises\BookExcercises.csproj", "{79B56168-2CAB-4DFF-AFF8-9DC346392424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountExercises", "AccountExercises\AccountExercises.csproj", "{33266E21-DDAF-4ECF-B14C-8310A0FDA216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B56168-2CAB-4DFF-AFF8-9DC346392424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B56168-2CAB-4DFF-AFF8-9DC346392424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B56168-2CAB-4DFF-AFF8-9DC346392424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B56168-2CAB-4DFF-AFF8-9DC346392424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33266E21-DDAF-4ECF-B14C-8310A0FDA216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33266E21-DDAF-4ECF-B14C-8310A0FDA216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33266E21-DDAF-4ECF-B14C-8310A0FDA216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33266E21-DDAF-4ECF-B14C-8310A0FDA216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C8FC9B0-4BEF-4979-A4F0-956F5E7BF572}
+	EndGlobalSection
+EndGlobal
