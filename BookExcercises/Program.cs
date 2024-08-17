@@ -20,6 +20,7 @@ namespace BookExcercises
             Output.DisplayBookList(bookList);
             Output.DisplayBookListSort(bookList);
             Input.InputSortWithField(bookList);
+            Console.ReadKey();
         }
     }
 }
